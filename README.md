@@ -23,8 +23,8 @@ Behaviour: local and international calls and minutes, customer service calls
 ## Approach
 <p>Loaded and reviewed the customer data in Excel.</p>
 <p>Created helper columns with formulas, such as a binary churn flag, age groups (Under 30, Senior, Other), and data usage groups (less than 5 GB, 5 to 10 GB, 10 GB or more).</p>
-<p>Built PivotTables to calculate churn rate across each customer segment.</p>
-<p>Visualised the results with PivotCharts.</p>
+<p>Built Pivot Tables to calculate churn rate across each customer segment.</p>
+<p>Visualised the results with Pivot Charts.</p>
 <p>Combined the key metrics and charts into an Overview dashboard.</p>
 
 ## Dashboard
@@ -49,7 +49,7 @@ Behaviour: local and international calls and minutes, customer service calls
 <p>Review competitor offers and device options to stay competitive.</p>
 
 ## Tools Used
-<p>Microsoft Excel (PivotTables, PivotCharts, formulas, dashboard design)</p>
+<p>Microsoft Excel (Pivot Tables, Pivot Charts, formulas, dashboard design)</p>
 
     
 ## About
